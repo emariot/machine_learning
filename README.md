@@ -21,3 +21,8 @@ Modelos de Machine Learn com Python e R
 * X12-X17: Amount of bill statement (NT dollar). X12 = amount of bill statement in September, 2005; X13 = amount of bill statement in August, 2005; . . .; X17 = amount of bill statement in April, 2005.
 * X18-X23: Amount of previous payment (NT dollar). X18 = amount paid in September, 2005; X19 = amount paid in August, 2005; . . .;X23 = amount paid in April, 2005.
 
+## Valores Missing e Distribuição das Idades
+| Valores Missing | Distribuição |
+| --------------- | ------------ |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/valores_missing.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/valores_missing.png" align="center" ></a> | <a href="https://github.com/emariot/machine_learning/blob/main/R/img/dist.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/dist.png" align="center" ></a>
+
