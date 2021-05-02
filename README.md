@@ -26,8 +26,17 @@ Modelos de Machine Learn com Python e R
 | --------------- | ------------ |
 <a href="https://github.com/emariot/machine_learning/blob/main/R/img/valores_missing.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/valores_missing.png" align="center" ></a> | <a href="https://github.com/emariot/machine_learning/blob/main/R/img/dist.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/dist.png" align="center" ></a>
 
-## Comparação da variável categórica e comparação entre os dados originais e de treino
+## Ditribuição da variável categórica e comparação entre os dados originais e de treino
 | Variáveis | Original/Treino |
 | --------------- | ------------ |
 <a href="https://github.com/emariot/machine_learning/blob/main/R/img/dist_val.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/dist_val.png" align="center" ></a> | <a href="https://github.com/emariot/machine_learning/blob/main/R/img/var_or_treino.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/var_or_treino.png" align="center" ></a>
 
+## Treinamento dos modelos
+| Modelo 1 | Modelo 2 | Modelo 3 |
+| -------- | -------- | -------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/treino_model_1.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/treino_model_1.png" align="center" ></a> | <a href="https://github.com/emariot/machine_learning/blob/main/R/img/treino_model_2.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/treino_model_2.png" align="center" ></a> | <a href="https://github.com/emariot/machine_learning/blob/main/R/img/treino_model_3.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/treino_model_3.png" align="center" ></a>
+
+## Relevância entre as variáveis do modelo
+| Relevância |
+| ---------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/var_relevantes.png"><img src="https://github.com/emariot/machine_learning/blob/main/R/img/var_relevantes.png" align="center" ></a> |
