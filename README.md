@@ -47,4 +47,4 @@ Modelos de Machine Learn com Python e R
 
 | Predict x real |
 | ---------- |
-<a href="https://github.com/emariot/machine_learning/blob/main/R/img/comp.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/comp.png" align="left" height="400" width="600"  ></a> |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/comp.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/comp.png" align="left" height="200" width="300"  ></a> |
