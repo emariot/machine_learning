@@ -41,6 +41,10 @@ Modelos de Machine Learn com Python e R
 | ---------- |
 <a href="https://github.com/emariot/machine_learning/blob/main/R/img/var_relevantes.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/var_relevantes.png" align="left" height="400" width="600"  ></a> |
 
-## Modelo 2: Criando um Árvore de Decisão com R (dataset: Iris)
+## Modelo 2: Criando uma Árvore de Decisão com R (dataset: Iris)
 ---
 <a href="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" align="left" height="400" width="600"  ></a>
+
+| Predict x real |
+| ---------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/comp.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/comp.png" align="left" height="400" width="600"  ></a> |
