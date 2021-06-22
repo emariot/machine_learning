@@ -48,3 +48,8 @@ Modelos de Machine Learn com Python e R
 ## Modelo 3: Modelo Naive Bayes (algorítmo de Classificação Probabilístico) com Python
 ---
 * 71% de acurácia para disponibilidade de crédito
+
+| Confusion Matrix |
+| ---------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/Python/img/naive_bayes.png" ><img src="https://github.com/emariot/machine_learning/blob/main/Python/img/naive_bayes.png" align="center" height="400" width="600"  ></a>
+
