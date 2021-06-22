@@ -47,6 +47,7 @@ Modelos de Machine Learn com Python e R
 
 ## Modelo 3: Modelo Naive Bayes (algorítmo de Classificação Probabilístico) com Python
 ---
+* In statistics, naive Bayes classifiers are a family of simple "probabilistic classifiers" based on applying Bayes' theorem with strong (naïve) independence assumptions between the features (see Bayes classifier). 
 * 71% de acurácia para disponibilidade de crédito
 
 | Confusion Matrix |
