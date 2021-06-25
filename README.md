@@ -43,7 +43,13 @@ Modelos de Machine Learn com Python e R
 
 ## Modelo 2: Criando uma Árvore de Decisão com R (dataset: Iris)
 ---
-<a href="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" align="center" height="400" width="600"  ></a>
+| Árvore de Regressão |
+| ---------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" align="center" height="400" width="600"  ></a> |
+
+| Árvore de Classificação |
+| ---------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/arvore.png" align="center" height="400" width="600"  ></a> |
 
 ## Modelo 3: Modelo Naive Bayes (algorítmo de Classificação Probabilístico) com Python
 ---
