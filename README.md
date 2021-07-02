@@ -60,3 +60,9 @@ Modelos de Machine Learn com Python e R
 | ---------- |
 <a href="https://github.com/emariot/machine_learning/blob/main/Python/img/naive_bayes.png" ><img src="https://github.com/emariot/machine_learning/blob/main/Python/img/naive_bayes.png" align="center" height="400" width="600"  ></a>
 
+## Seleção de Atributos R: **RandomForest**
+* Serve para selecionar os atributos mais significantes para o modelo
+
+| R: Random Forest |
+| ---------- |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/selecao_atributos.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/selecao_atributos.png" align="center" height="400" width="600"  ></a> |
