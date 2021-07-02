@@ -65,4 +65,4 @@ Modelos de Machine Learn com Python e R
 
 | R: Random Forest |
 | ---------- |
-<a href="https://github.com/emariot/machine_learning/blob/main/R/img/selecao_atributos.png" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/selecao_atributos.png" align="center" height="400" width="600"  ></a> |
+<a href="https://github.com/emariot/machine_learning/blob/main/R/img/selecao_atributos.PNG" ><img src="https://github.com/emariot/machine_learning/blob/main/R/img/selecao_atributos.PNG" align="center" height="400" width="600"  ></a> |
